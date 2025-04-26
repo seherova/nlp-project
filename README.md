@@ -1,0 +1,1 @@
+Collect technical and medicine English news, 100 news from each. Using the bag-of-words technique for selection of descriptive words for each class and train an SVM for classification. Moreover, apply Naive Bayes classification additionally. Use 90% for traning and 10% for testing of all news collected.  
